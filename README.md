@@ -3,7 +3,7 @@
 
 ### 1. Project Overview
   - This project documents the structured validation workflow applied to evaluate prediction outputs from a computer vision–based pothole and manhole detection system.
-  - The objective was to ensure detection reliability, categorize model errors, and maintain dataset integrity before retraining or deployment improvements.
+  - The objective was to ensure detection reliability, categorise model errors, and maintain dataset integrity before retraining or deployment improvements.
   - This repository focuses on the validation framework and evaluation methodology.
 
 ### 2. Problem Statement
@@ -23,7 +23,7 @@ Prediction results generated from road footage.
 Step 2 – Annotation Cross-Check.
 Compare predicted bounding boxes against ground truth labels.
 
-Step 3 – Error Categorization.
+Step 3 – Error Categorisation.
 Each output classified as:
 
   - True Detection
@@ -51,5 +51,5 @@ Recurring error patterns identified and flagged for improvement.
 ### 6. Key Learning
   - Structured model evaluation process
   - Importance of dataset consistency
-  - Detection error categorization logic
+  - Detection error categorisation logic
   - Data quality governance in AI systems
